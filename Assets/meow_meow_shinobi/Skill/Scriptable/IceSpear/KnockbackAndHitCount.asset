@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 742715b66298043bfa57086b65f7a6fe, type: 3}
+  m_Name: KnockbackAndHitCount
+  m_EditorClassIdentifier: 
+  _skillType: 6
+  _abilitys: 0200000006000000
+  _increase:
+  - 2
+  - 2
+  _statusEffect: {fileID: 11400000, guid: d867d38d7e00744eb90337aa9f417a50, type: 2}
+  _skillName: "\uC5BC\uC74C\uCC3D \uCDA9\uACA9"
+  _skillInfo: "\uBC00\uCE58\uB294 \uD798\n+200%\n\n\uAD00\uD1B5\uB825 +2"
+  _skillThumnail: {fileID: 21300000, guid: 1937b830f31ef4748b0ffb82aa80931e, type: 3}

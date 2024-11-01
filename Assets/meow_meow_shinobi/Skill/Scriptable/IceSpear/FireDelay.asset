@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 742715b66298043bfa57086b65f7a6fe, type: 3}
+  m_Name: FireDelay
+  m_EditorClassIdentifier: 
+  _skillType: 10
+  _abilitys: 0000000009000000
+  _increase:
+  - 0.2
+  - 0.2
+  _statusEffect: {fileID: 0}
+  _skillName: "\uC5BC\uC74C\uCC3D \uAC00\uC18D"
+  _skillInfo: "\uACF5\uACA9\uB825\n+20%\n\n\uC2DC\uC804 \uC2DC\uAC04 -20%\n\n"
+  _skillThumnail: {fileID: 21300000, guid: 1937b830f31ef4748b0ffb82aa80931e, type: 3}

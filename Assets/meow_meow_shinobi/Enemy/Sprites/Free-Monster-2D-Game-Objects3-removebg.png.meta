@@ -1,0 +1,580 @@
+fileFormatVersion: 2
+guid: 2e0cf55892e294c508053b8c60370747
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free-Monster-2D-Game-Objects3-removebg_0
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 730
+        width: 126
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4467efa96d5f44a8eac13482824bccdb
+      internalID: -1549320532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Monster-2D-Game-Objects3-removebg_1
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 732
+        width: 117
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509a4fd6e7916441dbf8bf0bcd30d2c2
+      internalID: -788592150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Monster-2D-Game-Objects3-removebg_2
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 732
+        width: 83
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5614d9cfe19e4737ab2748f54e43f57
+      internalID: 1513243882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Monster-2D-Game-Objects3-removebg_3
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 731
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa8253e1e70d49c1aba473f5d90d371
+      internalID: -212576462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Monster-2D-Game-Objects3-removebg_4
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 731
+        width: 100
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b77ed148bb0c42f98299c71ff7f75f7
+      internalID: -1188099118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Monster-2D-Game-Objects3-removebg_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 534
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d50c93933554440b30901bf706bbf0
+      internalID: 376491531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Monster-2D-Game-Objects3-removebg_6
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 534
+        width: 125
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ec62373f1ad4e5399e32c2f79d2515
+      internalID: -2006841086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Monster-2D-Game-Objects3-removebg_7
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 515
+        width: 170
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75654f31daa7b451183aab2e68e79613
+      internalID: -2093200699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Monster-2D-Game-Objects3-removebg_8
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 534
+        width: 97
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0079dfa5f454b4e8080bb9a974ecf94f
+      internalID: 1937763040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Monster-2D-Game-Objects3-removebg_9
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 533
+        width: 129
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ffb30b339d242a0a2265895e66c9ed
+      internalID: 496397925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Monster-2D-Game-Objects3-removebg_10
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 330
+        width: 105
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec9c904e44aa431aae1445634de55ed
+      internalID: -863572197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Monster-2D-Game-Objects3-removebg_11
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 329
+        width: 114
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479a5699cd75f42b0ba60e5650f9af4c
+      internalID: 1332434765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Monster-2D-Game-Objects3-removebg_12
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 329
+        width: 143
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa29353287f7a4349865d1da026013ca
+      internalID: -1053446017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Monster-2D-Game-Objects3-removebg_13
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 329
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdea08a2a830542c79d5aa09f8810c8f
+      internalID: -1358625599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Monster-2D-Game-Objects3-removebg_14
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 327
+        width: 125
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4073212b6c91341d992d8b9fa982182a
+      internalID: 830544045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Monster-2D-Game-Objects3-removebg_15
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 121
+        width: 152
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adaf99bb0ba341a6938a8852d3184a5
+      internalID: 829277337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Monster-2D-Game-Objects3-removebg_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 121
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dea3de64caf4a0f9f203b2560a0c2c
+      internalID: 2067405904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Monster-2D-Game-Objects3-removebg_17
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 120
+        width: 148
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dee80ff6b484fa4bb2f7dc2152484f
+      internalID: -1461858331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Monster-2D-Game-Objects3-removebg_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 121
+        width: 115
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a098de0a68c71433d94b2d7469c54780
+      internalID: -1944292221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Monster-2D-Game-Objects3-removebg_19
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 122
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f93a841ff15b42d0a74b86d89f2cd21
+      internalID: -2120945081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 53fcae13a416d4e029c1e224c68892bd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Free-Monster-2D-Game-Objects3-removebg_0: -1549320532
+      Free-Monster-2D-Game-Objects3-removebg_1: -788592150
+      Free-Monster-2D-Game-Objects3-removebg_10: -863572197
+      Free-Monster-2D-Game-Objects3-removebg_11: 1332434765
+      Free-Monster-2D-Game-Objects3-removebg_12: -1053446017
+      Free-Monster-2D-Game-Objects3-removebg_13: -1358625599
+      Free-Monster-2D-Game-Objects3-removebg_14: 830544045
+      Free-Monster-2D-Game-Objects3-removebg_15: 829277337
+      Free-Monster-2D-Game-Objects3-removebg_16: 2067405904
+      Free-Monster-2D-Game-Objects3-removebg_17: -1461858331
+      Free-Monster-2D-Game-Objects3-removebg_18: -1944292221
+      Free-Monster-2D-Game-Objects3-removebg_19: -2120945081
+      Free-Monster-2D-Game-Objects3-removebg_2: 1513243882
+      Free-Monster-2D-Game-Objects3-removebg_3: -212576462
+      Free-Monster-2D-Game-Objects3-removebg_4: -1188099118
+      Free-Monster-2D-Game-Objects3-removebg_5: 376491531
+      Free-Monster-2D-Game-Objects3-removebg_6: -2006841086
+      Free-Monster-2D-Game-Objects3-removebg_7: -2093200699
+      Free-Monster-2D-Game-Objects3-removebg_8: 1937763040
+      Free-Monster-2D-Game-Objects3-removebg_9: 496397925
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

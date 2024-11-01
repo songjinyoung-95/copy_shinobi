@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 742715b66298043bfa57086b65f7a6fe, type: 3}
+  m_Name: FireCount
+  m_EditorClassIdentifier: 
+  _skillType: 5
+  _abilitys: 0500000000000000
+  _increase:
+  - 1
+  - -0.2
+  _statusEffect: {fileID: 0}
+  _skillName: "\uBCBC\uB77D \uAC1C\uC218 \uCD94\uAC00"
+  _skillInfo: "\uBC1C\uC0AC\uC218 +1\n\n\uACF5\uACA9\uB825 - 20%"
+  _skillThumnail: {fileID: 21300000, guid: 914a036c1e04c4bf99c3dda4aff6e0c3, type: 3}

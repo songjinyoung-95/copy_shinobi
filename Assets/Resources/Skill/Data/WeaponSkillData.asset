@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e07fceeed2344071a1f5c72b84d7e9d, type: 3}
+  m_Name: WeaponSkillData
+  m_EditorClassIdentifier: 
+  _skills:
+  - WeaponType: 1
+    SkillList:
+    - {fileID: 11400000, guid: a40abc0d5600b477a947b6397481aec3, type: 2}
+    - {fileID: 11400000, guid: 374a273387bf84c8b80646a92df7614d, type: 2}
+    - {fileID: 11400000, guid: 19744a362f0cf4e0d8f982bba4fc7216, type: 2}
+    - {fileID: 11400000, guid: d169b098e1d134b99b88485ce8e2aea5, type: 2}
+    - {fileID: 11400000, guid: 51e1f0bcd35bb443295a98caee17246c, type: 2}
+    - {fileID: 11400000, guid: ddd75ba34a79b4d43bc945278b77676a, type: 2}
+    - {fileID: 11400000, guid: 56355732d4052472bb774ed3ef2cbdde, type: 2}
+  - WeaponType: 2
+    SkillList:
+    - {fileID: 11400000, guid: a6871eeaa07394180bae57896d3d600e, type: 2}
+    - {fileID: 11400000, guid: 97d2631e9a89a4439b240d733b55226c, type: 2}
+    - {fileID: 11400000, guid: e99fe134ea73a416884cb5a743901e27, type: 2}
+  - WeaponType: 3
+    SkillList:
+    - {fileID: 11400000, guid: 96b721c52fd8e4f908829cb15215ad53, type: 2}
+    - {fileID: 11400000, guid: a2515efde9af3447a9b96ad3c4c88fcf, type: 2}
+    - {fileID: 11400000, guid: 5516300ae0b6549bfa9d91b81adf2241, type: 2}
+    - {fileID: 11400000, guid: 4490aff87abf4458a87cdf05e3a65ecc, type: 2}
+    - {fileID: 11400000, guid: 8fb05727bc4974a3c9bbeff771769b0b, type: 2}
+    - {fileID: 11400000, guid: 900d20bd279b0409a83c1344517cbd9b, type: 2}
+  - WeaponType: 4
+    SkillList:
+    - {fileID: 11400000, guid: c45ac6399e5c643a3b110e9a968577f3, type: 2}
+    - {fileID: 11400000, guid: 07bafb6c54ca84b1fa1d8d788c4ed1e2, type: 2}
+    - {fileID: 11400000, guid: 9a3b7382803f346b0b1a62a98d27d192, type: 2}
+    - {fileID: 11400000, guid: 9fb91b0ae3f324740beeb9fdd084737a, type: 2}
+    - {fileID: 11400000, guid: 01f070b6f1a2448bd86074e2a871990b, type: 2}
+    - {fileID: 11400000, guid: 523ec04fbec894d9da02f9233358e338, type: 2}
+  - WeaponType: 5
+    SkillList:
+    - {fileID: 11400000, guid: 60550643d265a4c61b470fa625afd914, type: 2}
+    - {fileID: 11400000, guid: b1b0520f2a3e24aa18fef6c59b11a883, type: 2}
+    - {fileID: 11400000, guid: 9f7ac6b68c4204eaf92b464802b93b3d, type: 2}
+    - {fileID: 11400000, guid: 651c7bb5b3c28417daff6d21c8cdd747, type: 2}
+    - {fileID: 11400000, guid: 7a7499d72ed8d45e2a488015207a1b7b, type: 2}
